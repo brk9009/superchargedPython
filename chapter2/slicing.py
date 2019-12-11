@@ -5,9 +5,9 @@ print(type(ch))
 # Removing the quotation marks using slicing
 king_str = '"Henry VIII"'
 new_str = king_str[1:-1]
-test_str = king_str[-4:]
+#test_str = king_str[-4:]
 print(new_str)
-print(test_str)
+#print(test_str)
 
 # Start at the character in 1st position and get every other character
 # Returns ooo
